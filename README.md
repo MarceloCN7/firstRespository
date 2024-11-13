@@ -6,7 +6,7 @@ I Doctype mal>
 <web>
 html
 head
-tittle>Marcelo chuquicusma</title>
+tittle>my information </title>
 </head>
 <body>
 <h1>my own user</h1>
